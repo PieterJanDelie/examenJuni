@@ -1,0 +1,22 @@
+{
+  "name": "eind-assignment-pieter-jan-delie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivesMDima/ti-eind-assignment-2223-project-PieterJanDelie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivesMDima/ti-eind-assignment-2223-project-PieterJanDelie/issues"
+  },
+  "homepage": "https://github.com/VivesMDima/ti-eind-assignment-2223-project-PieterJanDelie#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
